@@ -7,6 +7,11 @@ h3 { font-color: red;
 
 }
 
-body { margin: 50px 50px
+body { margin: 200px 50px
 
+ }
+
+ .resize {
+ 	width: 400px;
+ 	height: auto;
  }
